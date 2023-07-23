@@ -76,7 +76,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Aneesh,
+secondTitle: Aneesh
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -102,7 +102,7 @@ link: mailto: gunukrillin@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
-link: YOUR_MEETING_HANLDE
+link: gunukrillin@gmail.com
 isNewTab: true
 
 -- end: ftd.row
@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/aneesh-sharma-643b8424b
+link: https://www.linkedin.com/in/aneesh-sharma-643b8424b/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: ANEESH SHARMA
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
@@ -207,7 +207,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: www.linkedin.com/in/aneesh-sharma-643b8424b
+link: https://www.linkedin.com/in/aneesh-sharma-643b8424b/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
