@@ -116,7 +116,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: www.linkedin.com/in/aneesh-sharma-643b8424b
+link: https://www.linkedin.com/in/aneesh-sharma-643b8424b
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
